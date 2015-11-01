@@ -2,7 +2,7 @@ Microview Frequency Analyzer
 ============================
 
 As a first project for my new Microview Arduino I wanted to produce a simple
-frequency analyzer. It's just a piece of fun, and most of the work was even
+frequency analyzer. It was just for fun, and most of the work was
 done by other people:
 a) The Fast Fourier Transform library: http://wiki.openmusiclabs.com/wiki/ArduinoFFT
 b) Analysis about the Arduino's sampling capabilities:
